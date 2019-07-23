@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_kayit"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.isatan.burbo.KayitActivity">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_below="@+id/edit_email"
+        android:layout_alignLeft="@+id/edit_email"
+        android:layout_alignStart="@+id/edit_email"
+        android:layout_marginTop="20dp"
+        android:id="@+id/edit_sifre"
+        android:hint="Şifre" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_marginTop="33dp"
+        android:id="@+id/edit_ad"
+        android:hint="Ad Soyad"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="Kayıt Ol"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonkayit"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="21dp"
+        tools:textColor="#FFF"
+        android:textStyle="bold"
+        tools:textSize="18sp"
+        />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+
+        android:layout_below="@+id/Spinner01"
+        android:layout_alignRight="@+id/Spinner01"
+        android:layout_alignEnd="@+id/Spinner01"
+        android:id="@+id/edit_tel"
+        android:hint="Telefon No" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_marginTop="20dp"
+        android:id="@+id/edit_email"
+        android:hint="Email"
+        android:layout_below="@+id/edit_ad"
+        android:layout_alignLeft="@+id/edit_ad"
+        android:layout_alignStart="@+id/edit_ad" />
+
+    <Spinner
+        android:id="@+id/Spinner01"
+        android:textColor="#908f8f"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_below="@+id/edit_sifre"
+        android:layout_alignRight="@+id/edit_sifre"
+        android:layout_alignEnd="@+id/edit_sifre"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="22dp"
+        android:layout_alignLeft="@+id/edit_sifre"
+        android:layout_alignStart="@+id/edit_sifre" />
+</RelativeLayout>

@@ -1,0 +1,201 @@
+[19-Feb-2017 11:27:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/kanbagis/public_html/admin/uye_ekle.php on line 132
+[19-Feb-2017 11:28:30 America/Chicago] PHP Warning:  include(baglanti.php): failed to open stream: No such file or directory in /home/kanbagis/public_html/admin/uyeler.php on line 139
+[19-Feb-2017 11:28:30 America/Chicago] PHP Warning:  include(baglanti.php): failed to open stream: No such file or directory in /home/kanbagis/public_html/admin/uyeler.php on line 139
+[19-Feb-2017 11:28:30 America/Chicago] PHP Warning:  include(): Failed opening 'baglanti.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kanbagis/public_html/admin/uyeler.php on line 139
+[19-Feb-2017 11:28:30 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'nobody'@'localhost' (using password: NO) in /home/kanbagis/public_html/admin/uyeler.php on line 141
+[19-Feb-2017 11:28:30 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/kanbagis/public_html/admin/uyeler.php on line 141
+[19-Feb-2017 11:28:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kanbagis/public_html/admin/uyeler.php on line 144
+[19-Feb-2017 11:28:32 America/Chicago] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/kanbagis/public_html/admin/uye_ekle.php on line 132
+[19-Feb-2017 11:28:41 America/Chicago] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/kanbagis/public_html/admin/uye_ekle.php on line 132
+[19-Feb-2017 11:29:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/kanbagis/public_html/admin/uye_ekle.php on line 132
+[19-Feb-2017 11:29:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/kanbagis/public_html/admin/uye_ekle.php on line 132
+[19-Feb-2017 11:29:18 America/Chicago] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/kanbagis/public_html/admin/uye_ekle.php on line 132
+[19-Feb-2017 11:35:19 America/Chicago] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/kanbagis/public_html/admin/uye_ekle.php on line 132
+[19-Feb-2017 11:35:23 America/Chicago] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/kanbagis/public_html/admin/uye_ekle.php on line 132
+[19-Feb-2017 11:48:04 America/Chicago] PHP Warning:  include(baglanti.php): failed to open stream: No such file or directory in /home/kanbagis/public_html/admin/uyeler.php on line 139
+[19-Feb-2017 11:48:04 America/Chicago] PHP Warning:  include(baglanti.php): failed to open stream: No such file or directory in /home/kanbagis/public_html/admin/uyeler.php on line 139
+[19-Feb-2017 11:48:04 America/Chicago] PHP Warning:  include(): Failed opening 'baglanti.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kanbagis/public_html/admin/uyeler.php on line 139
+[19-Feb-2017 11:48:04 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'nobody'@'localhost' (using password: NO) in /home/kanbagis/public_html/admin/uyeler.php on line 141
+[19-Feb-2017 11:48:04 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/kanbagis/public_html/admin/uyeler.php on line 141
+[19-Feb-2017 11:48:04 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kanbagis/public_html/admin/uyeler.php on line 144
+[19-Feb-2017 11:50:49 America/Chicago] PHP Warning:  include(baglanti.php): failed to open stream: No such file or directory in /home/kanbagis/public_html/admin/uyeler.php on line 139
+[19-Feb-2017 11:50:49 America/Chicago] PHP Warning:  include(baglanti.php): failed to open stream: No such file or directory in /home/kanbagis/public_html/admin/uyeler.php on line 139
+[19-Feb-2017 11:50:49 America/Chicago] PHP Warning:  include(): Failed opening 'baglanti.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kanbagis/public_html/admin/uyeler.php on line 139
+[19-Feb-2017 11:50:49 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'nobody'@'localhost' (using password: NO) in /home/kanbagis/public_html/admin/uyeler.php on line 141
+[19-Feb-2017 11:50:49 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/kanbagis/public_html/admin/uyeler.php on line 141
+[19-Feb-2017 11:50:49 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kanbagis/public_html/admin/uyeler.php on line 144
+[19-Feb-2017 11:50:51 America/Chicago] PHP Warning:  include(baglanti.php): failed to open stream: No such file or directory in /home/kanbagis/public_html/admin/uyeler.php on line 139
+[19-Feb-2017 11:50:51 America/Chicago] PHP Warning:  include(baglanti.php): failed to open stream: No such file or directory in /home/kanbagis/public_html/admin/uyeler.php on line 139
+[19-Feb-2017 11:50:51 America/Chicago] PHP Warning:  include(): Failed opening 'baglanti.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kanbagis/public_html/admin/uyeler.php on line 139
+[19-Feb-2017 11:50:51 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'nobody'@'localhost' (using password: NO) in /home/kanbagis/public_html/admin/uyeler.php on line 141
+[19-Feb-2017 11:50:51 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/kanbagis/public_html/admin/uyeler.php on line 141
+[19-Feb-2017 11:50:51 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kanbagis/public_html/admin/uyeler.php on line 144
+[19-Feb-2017 14:24:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kanbagis/public_html/admin/sms_gonder.php on line 134
+[08-May-2017 12:09:13 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/sms_gonder.php on line 151
+[08-May-2017 12:14:02 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/sms_gonder.php on line 151
+[08-May-2017 12:17:19 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/sms_gonder.php on line 151
+[08-May-2017 12:51:44 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/sms_gonder.php on line 151
+[08-May-2017 13:07:05 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/sms_gonder.php on line 151
+[08-May-2017 13:11:28 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/sms_gonder.php on line 151
+[08-May-2017 13:20:15 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/sms_gonder.php on line 151
+[08-May-2017 13:32:36 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/sms_gonder.php on line 151
+[08-May-2017 13:52:14 America/Chicago] PHP Warning:  http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given in /home/kanbagis/public_html/admin/sms_gonder.php on line 148
+[08-May-2017 14:13:42 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/sms_gonder.php on line 151
+[08-May-2017 14:16:08 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/sms_gonder.php on line 151
+[08-May-2017 14:22:53 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/tester.php on line 21
+[08-May-2017 14:23:48 America/Chicago] PHP Warning:  urlencode() expects exactly 1 parameter, 2 given in /home/kanbagis/public_html/admin/tester.php on line 7
+[08-May-2017 14:23:48 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/tester.php on line 17
+[08-May-2017 14:23:52 America/Chicago] PHP Warning:  urlencode() expects exactly 1 parameter, 2 given in /home/kanbagis/public_html/admin/tester.php on line 7
+[08-May-2017 14:23:52 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/tester.php on line 17
+[08-May-2017 14:24:49 America/Chicago] PHP Warning:  urlencode() expects exactly 1 parameter, 2 given in /home/kanbagis/public_html/admin/tester.php on line 7
+[08-May-2017 14:24:49 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/tester.php on line 17
+[08-May-2017 14:28:50 America/Chicago] PHP Warning:  curl_setopt(): CURLOPT_FOLLOWLOCATION cannot be activated when an open_basedir is set in /home/kanbagis/public_html/admin/tester.php on line 18
+[08-May-2017 14:28:50 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/tester.php on line 24
+[08-May-2017 14:28:53 America/Chicago] PHP Warning:  curl_setopt(): CURLOPT_FOLLOWLOCATION cannot be activated when an open_basedir is set in /home/kanbagis/public_html/admin/tester.php on line 18
+[08-May-2017 14:28:53 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/tester.php on line 24
+[08-May-2017 14:29:07 America/Chicago] PHP Warning:  curl_setopt(): CURLOPT_FOLLOWLOCATION cannot be activated when an open_basedir is set in /home/kanbagis/public_html/admin/tester.php on line 18
+[08-May-2017 14:29:07 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/tester.php on line 24
+[08-May-2017 14:54:19 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/sms_gonder.php on line 150
+[08-May-2017 15:48:30 America/Chicago] PHP Warning:  fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/kanbagis/public_html/admin/fsock.php on line 2
+[08-May-2017 15:48:30 America/Chicago] PHP Warning:  fsockopen(): unable to connect to mesela.dom:80 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/kanbagis/public_html/admin/fsock.php on line 2
+[08-May-2017 15:49:25 America/Chicago] PHP Warning:  fsockopen(): unable to connect to http://api.txtlocal.com/send/:80 (Unable to find the socket transport &quot;http&quot; - did you forget to enable it when you configured PHP?) in /home/kanbagis/public_html/admin/fsock.php on line 2
+[08-May-2017 15:50:42 America/Chicago] PHP Warning:  fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/kanbagis/public_html/admin/fsock.php on line 2
+[08-May-2017 15:50:42 America/Chicago] PHP Warning:  fsockopen(): unable to connect to api.txtlocal.com/send/:80 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/kanbagis/public_html/admin/fsock.php on line 2
+[08-May-2017 15:50:49 America/Chicago] PHP Warning:  fsockopen(): unable to connect to http://api.txtlocal.com/send/:80 (Unable to find the socket transport &quot;http&quot; - did you forget to enable it when you configured PHP?) in /home/kanbagis/public_html/admin/fsock.php on line 2
+[08-May-2017 15:52:08 America/Chicago] PHP Warning:  fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/kanbagis/public_html/admin/fsock.php on line 2
+[08-May-2017 15:52:08 America/Chicago] PHP Warning:  fsockopen(): unable to connect to www.api.txtlocal.com/send/:80 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/kanbagis/public_html/admin/fsock.php on line 2
+[08-May-2017 15:52:17 America/Chicago] PHP Warning:  fsockopen(): unable to connect to http://api.txtlocal.com/send/:80 (Unable to find the socket transport &quot;http&quot; - did you forget to enable it when you configured PHP?) in /home/kanbagis/public_html/admin/fsock.php on line 2
+[08-May-2017 15:56:59 America/Chicago] PHP Warning:  fsockopen(): unable to connect to http://api.txtlocal.com/send/?:80 (Unable to find the socket transport &quot;http&quot; - did you forget to enable it when you configured PHP?) in /home/kanbagis/public_html/admin/fsock.php on line 2
+[08-May-2017 15:57:16 America/Chicago] PHP Warning:  fsockopen(): unable to connect to http://api.txtlocal.com/send/:80 (Unable to find the socket transport &quot;http&quot; - did you forget to enable it when you configured PHP?) in /home/kanbagis/public_html/admin/fsock.php on line 2
+[08-May-2017 18:19:02 America/Chicago] PHP Warning:  curl_setopt(): CURLOPT_FOLLOWLOCATION cannot be activated when an open_basedir is set in /home/kanbagis/public_html/admin/ileti.php on line 14
+[08-May-2017 18:19:02 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 17
+[08-May-2017 18:22:00 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/kanbagis/public_html/admin/ileti.php on line 34
+[08-May-2017 18:23:38 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/kanbagis/public_html/admin/ileti.php on line 31
+[08-May-2017 18:24:40 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/kanbagis/public_html/admin/ileti.php on line 31
+[08-May-2017 18:33:22 America/Chicago] PHP Warning:  file_get_contents(http://panel.vatansms.com/panel/smsgonder1Npost.phpdata=&lt;sms&gt;
+&lt;kno&gt;&lt;/kno&gt;
+&lt;kulad&gt;&lt;/kulad&gt;
+&lt;sifre&gt;&lt;/sifre&gt;
+&lt;gonderen&gt;&lt;/gonderen&gt;
+&lt;mesaj&gt;Bu bir test mesajidir.&lt;/mesaj&gt;
+&lt;numaralar&gt;5554443322,5553334422&lt;/numaralar&gt;
+&lt;tur&gt;Normal&lt;/tur&gt;
+&lt;/sms&gt;): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/kanbagis/public_html/admin/ileti.php on line 30
+[08-May-2017 18:33:45 America/Chicago] PHP Warning:  file_get_contents(http://panel.vatansms.com/panel/smsgonder1Npost.phpdata=&lt;sms&gt;
+&lt;kno&gt;&lt;/kno&gt;
+&lt;kulad&gt;&lt;/kulad&gt;
+&lt;sifre&gt;&lt;/sifre&gt;
+&lt;gonderen&gt;&lt;/gonderen&gt;
+&lt;mesaj&gt;Bu bir test mesajidir.&lt;/mesaj&gt;
+&lt;numaralar&gt;5554443322,5553334422&lt;/numaralar&gt;
+&lt;tur&gt;Normal&lt;/tur&gt;
+&lt;/sms&gt;): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/kanbagis/public_html/admin/ileti.php on line 30
+[08-May-2017 18:40:06 America/Chicago] PHP Warning:  file_get_contents(http://panel.vatansms.com/panel/smsgonder1Npost.phpdata=&lt;sms&gt;
+&lt;kno&gt;&lt;/kno&gt;
+&lt;kulad&gt;905456816866&lt;/kulad&gt;
+&lt;sifre&gt;66aYIB68&lt;/sifre&gt;
+&lt;gonderen&gt;acil&lt;/gonderen&gt;
+&lt;mesaj&gt;Bu bir test mesajidir.&lt;/mesaj&gt;
+&lt;numaralar&gt;5456816866&lt;/numaralar&gt;
+&lt;tur&gt;Normal&lt;/tur&gt;
+&lt;/sms&gt;): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/kanbagis/public_html/admin/ileti.php on line 29
+[08-May-2017 18:40:09 America/Chicago] PHP Warning:  file_get_contents(http://panel.vatansms.com/panel/smsgonder1Npost.phpdata=&lt;sms&gt;
+&lt;kno&gt;&lt;/kno&gt;
+&lt;kulad&gt;905456816866&lt;/kulad&gt;
+&lt;sifre&gt;66aYIB68&lt;/sifre&gt;
+&lt;gonderen&gt;acil&lt;/gonderen&gt;
+&lt;mesaj&gt;Bu bir test mesajidir.&lt;/mesaj&gt;
+&lt;numaralar&gt;5456816866&lt;/numaralar&gt;
+&lt;tur&gt;Normal&lt;/tur&gt;
+&lt;/sms&gt;): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/kanbagis/public_html/admin/ileti.php on line 29
+[08-May-2017 18:41:46 America/Chicago] PHP Warning:  file_get_contents(http://panel.vatansms.com/panel/smsgonder1Npost.phpdata=&lt;sms&gt;
+&lt;kno&gt;&lt;/kno&gt;
+&lt;kulad&gt;905456816866&lt;/kulad&gt;
+&lt;sifre&gt;66aYIB68&lt;/sifre&gt;
+&lt;gonderen&gt;acil&lt;/gonderen&gt;
+&lt;mesaj&gt;Bu bir test mesajidir.&lt;/mesaj&gt;
+&lt;numaralar&gt;905456816866&lt;/numaralar&gt;
+&lt;tur&gt;Normal&lt;/tur&gt;
+&lt;/sms&gt;): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/kanbagis/public_html/admin/ileti.php on line 29
+[08-May-2017 18:55:11 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 47
+[08-May-2017 18:55:32 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 47
+[08-May-2017 18:56:11 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 47
+[08-May-2017 18:56:11 America/Chicago] PHP Fatal error:  Call to undefined function php_info() in /home/kanbagis/public_html/admin/ileti.php on line 58
+[08-May-2017 19:03:39 America/Chicago] PHP Warning:  urlencode() expects exactly 1 parameter, 2 given in /home/kanbagis/public_html/admin/ileti.php on line 7
+[08-May-2017 19:03:39 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 17
+[08-May-2017 19:03:54 America/Chicago] PHP Warning:  urlencode() expects exactly 1 parameter, 2 given in /home/kanbagis/public_html/admin/ileti.php on line 7
+[08-May-2017 19:03:54 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 17
+[08-May-2017 19:06:39 America/Chicago] PHP Warning:  urlencode() expects exactly 1 parameter, 2 given in /home/kanbagis/public_html/admin/ileti.php on line 7
+[08-May-2017 19:06:39 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 17
+[08-May-2017 19:06:40 America/Chicago] PHP Warning:  urlencode() expects exactly 1 parameter, 2 given in /home/kanbagis/public_html/admin/ileti.php on line 7
+[08-May-2017 19:06:40 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 17
+[08-May-2017 19:06:40 America/Chicago] PHP Warning:  urlencode() expects exactly 1 parameter, 2 given in /home/kanbagis/public_html/admin/ileti.php on line 7
+[08-May-2017 19:06:40 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 17
+[08-May-2017 19:06:40 America/Chicago] PHP Warning:  urlencode() expects exactly 1 parameter, 2 given in /home/kanbagis/public_html/admin/ileti.php on line 7
+[08-May-2017 19:06:40 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 17
+[08-May-2017 19:06:40 America/Chicago] PHP Warning:  urlencode() expects exactly 1 parameter, 2 given in /home/kanbagis/public_html/admin/ileti.php on line 7
+[08-May-2017 19:06:40 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 17
+[08-May-2017 19:06:40 America/Chicago] PHP Warning:  urlencode() expects exactly 1 parameter, 2 given in /home/kanbagis/public_html/admin/ileti.php on line 7
+[08-May-2017 19:06:40 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 17
+[08-May-2017 19:06:42 America/Chicago] PHP Warning:  urlencode() expects exactly 1 parameter, 2 given in /home/kanbagis/public_html/admin/ileti.php on line 7
+[08-May-2017 19:06:42 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 17
+[08-May-2017 19:07:10 America/Chicago] PHP Warning:  urlencode() expects exactly 1 parameter, 2 given in /home/kanbagis/public_html/admin/ileti.php on line 7
+[08-May-2017 19:07:10 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 18
+[08-May-2017 19:10:09 America/Chicago] PHP Warning:  urlencode() expects exactly 1 parameter, 2 given in /home/kanbagis/public_html/admin/ileti.php on line 7
+[08-May-2017 19:10:09 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 18
+[08-May-2017 19:11:46 America/Chicago] PHP Warning:  urlencode() expects exactly 1 parameter, 2 given in /home/kanbagis/public_html/admin/ileti.php on line 7
+[08-May-2017 19:11:46 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 18
+[08-May-2017 19:13:51 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 18
+[08-May-2017 19:13:53 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 18
+[08-May-2017 19:20:09 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:20:10 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:20:10 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:20:11 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:20:11 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:21:38 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:21:39 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:21:40 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:21:40 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:21:46 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:24:12 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:24:13 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:24:13 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:24:14 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:24:14 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:24:14 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:24:15 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:24:16 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:24:16 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:27:50 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:27:51 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:27:51 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[08-May-2017 19:27:51 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 22
+[09-May-2017 03:17:22 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20
+[09-May-2017 03:17:22 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20
+[09-May-2017 03:17:22 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20
+[09-May-2017 03:17:22 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20
+[09-May-2017 07:53:12 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20
+[09-May-2017 07:53:12 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20
+[09-May-2017 07:53:12 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20
+[09-May-2017 07:53:12 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20
+[09-May-2017 09:13:53 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20
+[09-May-2017 09:13:53 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20
+[09-May-2017 09:13:53 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20
+[09-May-2017 09:13:53 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20
+[09-May-2017 10:07:18 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/example.php on line 19
+[09-May-2017 10:08:23 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/example.php on line 19
+[09-May-2017 10:29:28 America/Chicago] PHP Fatal error:  Call to undefined function rawulencode() in /home/kanbagis/public_html/admin/sms_gonder.php on line 138
+[09-May-2017 10:34:45 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/ileti.php on line 21
+[23-May-2017 09:56:07 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20
+[23-May-2017 09:56:07 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20
+[23-May-2017 09:56:07 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20
+[23-May-2017 09:56:07 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20
+[23-May-2017 09:56:11 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20
+[23-May-2017 09:56:11 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20
+[23-May-2017 09:56:11 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20
+[23-May-2017 09:56:11 America/Chicago] PHP Warning:  curl_exec() has been disabled for security reasons in /home/kanbagis/public_html/admin/deneme.php on line 20

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.isatan.burbo">
+
+    <uses-permission android:name="android.permission.INTERNET" ></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" ></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" ></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:label="KanBankası"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:icon="@drawable/ic_launcher"
+        android:name="android.support.multidex.MultiDexApplication">
+        <activity android:name="com.example.isatan.burbo.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ProfileActivity">
+                <intent-filter>
+                    <action android:name="android.intent.action.MAIN"></action>
+                    <category android:name="android.intent.category.LAUNCHER"></category>
+                </intent-filter>
+        </activity>
+
+        <activity android:name="com.example.isatan.burbo.KayitActivity"></activity>
+        <activity android:name=".ListActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"></action>
+                <category android:name="android.intent.category.LAUNCHER"></category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".CagriActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"></action>
+                <category android:name="android.intent.category.LAUNCHER"></category>
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

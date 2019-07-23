@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Kan Bankası</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- Stylesheets -->
+<link rel="stylesheet" href="css/reset.css" />
+<link rel="stylesheet" href="css/styles.css" />
+<!-- Scripts -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.roundabout-1.0.min.js"></script>
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript">		
+$(document).ready(function() { //Start up our Featured Project Carosuel
+	$('#featured ul').roundabout({
+		easing: 'easeOutInCirc',
+		duration: 600
+	});
+});
+</script>
+<!--[if IE 6]>
+<script src="js/DD_belatedPNG_0.0.8a-min.js"></script>
+<script>DD_belatedPNG.fix('.button');</script>
+<![endif]-->
+</head>
+<body>
+<div id="wrapper" class="container_12 clearfix">
+  <!-- Text Logo -->
+  <h1 id="logo" class="grid_4"><b><font color="red">K</font></b>an<b><font color="red">B</font></b>ankası</h1>
+  <!-- Navigation Menu -->
+  <ul id="navigation" class="grid_8">
+    <li><a href="iletisim.html"class="current"><span class="meta">İletişim kurun</span><br />
+      Bize Ulaşın</a></li> 
+    <li><a href="hakkimizda.html"><span class="meta">Biz kimiz?</span><br />
+      Hakkımızda</a></li>
+    <li><a href="index.html"><span class="meta">Anasayfa</span><br />
+      Anasayfa</a></li>
+  </ul>
+  <div class="hr grid_12">&nbsp;</div>
+  <div class="clear"></div> 
+  <!-- Column 1 / Content -->
+  <div class="grid_8">
+    
+    <form action="#" method="post" id="contact_form">
+      <h3>İletişim Formu</h3>
+      <div class="hr dotted clearfix">&nbsp;</div>
+      <ul>
+        <li class="clearfix">
+          <label for="name">İsim</label>
+          <input type='text' name='name' id='name' />
+          <div class="clear"></div>
+          <p id='name_error' class='error'>Bir isim giriniz</p>
+        </li>
+        <li class="clearfix">
+          <label for="email">Email</label>
+          <input type='text' name='email' id='email' />
+          <div class="clear"></div>
+          <p id='email_error' class='error'>Geçerli bir email adresi giriniz</p>
+        </li>
+        <li class="clearfix">
+          <label for="subject">Konu</label>
+          <input type='text' name='subject' id='subject' />
+          <div class="clear"></div>
+          <p id='subject_error' class='error'>Mesaj konusu giriniz</p>
+        </li>
+        <li class="clearfix">
+          <label for="message">Mesaj</label>
+          <textarea name='message' id='message' rows="30" cols="30"></textarea>
+          <div class="clear"></div>
+          <p id='message_error' class='error'>Mesaj giriniz</p>
+        </li>
+        <li class="clearfix">
+          <p id='mail_success' class='success'>Teşekkür ederiz. Mümkün olan en kısa sürede size geri dönüş yapacağız.</p>
+          <p id='mail_fail' class='error'>Üzgünüz, bir hata oluştu. Lütfen daha sonra tekrar deneyiniz.</p>
+          <div id="button">
+            <input type='submit' id='send_message' class="button" value='Gönder' />
+          </div>
+        </li>
+      </ul>
+    </form>
+  </div>
+  <!-- Column 2 / Sidebar -->
+  <div class="grid_4 contact">
+    <!-- Adress and Phone Details -->
+    <h4>Adres and Telefon</h4>
+    <div class="hr dotted clearfix">&nbsp;</div>
+    <ul>
+      <li> <strong>Karabük Üniversitesi</strong><br />
+        Adres:100.yıl mah, 1002.no'lu cad No:0, 78050 <br />
+        Merkez/Karabük <br />
+        <br />
+      </li>
+      <li>Telefon: (0370) 000 00 00</li> 
+    </ul>
+    <!-- Email Addresses -->
+    <h4>Email</h4>
+    <div class="hr dotted clearfix">&nbsp;</div>
+    <ul>
+      <li>info@kbu.edu.tr</li> 
+    </ul>
+  
+  </div>
+  <div class="hr grid_12 clearfix">&nbsp;</div>
+   
+  <!-- Footer --> 
+  <p class="grid_12 footer clearfix"> <span class="float"><b>&copy; Copyright 2018. Tüm Hakları Saklıdır</b> | Bu site İsmail TANRIKULU ve Burak ALTINGÖZ tarafından tasarlanmıştır.</span></p>
+</div>
+<!--end wrapper-->
+</body>
+</html>
